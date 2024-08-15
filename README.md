@@ -1,4 +1,4 @@
-### Project Name: **Uninstaller & HWID Masker**
+### **Uninstaller & HWID Masker**
 
 ---
 
