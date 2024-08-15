@@ -88,5 +88,3 @@ This project is intended for educational purposes only. Use these scripts at you
 ### License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
